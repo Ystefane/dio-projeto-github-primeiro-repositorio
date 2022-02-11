@@ -1,0 +1,40 @@
+LISTA DE COMANDOS ÚTEIS
+
+ls - lista as pastas e arquivos.
+echo > nome.formato - cria um arquivo.
+mkdir nome_pasta - cria uma pasta.
+mv nome_arquivo ./nome_pasta/ - move um arquivo para outra pasta.
+ctrl + l - limpa a janela do git.
+
+
+LISTA DE COMANDOS BÁSICOS DO GIT
+
+git init - cria um repositorio.
+git status - monitora as mudanças que precisam ser commitadas.
+git add nome.formato - seleciona o arquivo que vai ser commitado.
+git add * - seleciona todos os arquivos e os encaminha para serem commitados.
+git commit -m "algum texto" - cria um commit com o texto entre as aspas.
+git clone link - clona um repositorio já existente. 
+git remote add apelido link - envia o repositorio local para um repositorio remoto.
+git remote -v - para observar como está a conexão entre os repositorios.
+git push apelido main - para enviar os commits para o repositorio remoto.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
